@@ -2,6 +2,7 @@
     box-shadow: 1px 1px 5px ;
     margin: 5px;
 }
+
 .cards{
     justify-content: center;
     display: flex;
@@ -11,9 +12,11 @@
     padding: 0;
     border: 1px solid black;
 }
+
 .fondo{
     background-color: aqua;
 }
+
 .card-item{
     display: flex;
     padding: 1rem;
