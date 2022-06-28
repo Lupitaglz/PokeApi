@@ -1,7 +1,6 @@
 import React from "react";
 import{Usefetch} from '../Usefetch';
 
-
 export const Pokecard =({url}) =>{
     const estado =Usefetch(url)
     const{cargando,data}=estado
