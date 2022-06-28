@@ -1,13 +1,16 @@
 body{
   background-color: #97e9ff;
 }
+
 h1{
   text-align: center;
   font-weight: 900;
 }
+
 .caja{
   font-weight: 900; 
 }
+
 .btn{
   display: inline-block;
   text-decoration:none;
@@ -27,6 +30,7 @@ h1{
   margin: 2%;
   width: 45%
   }
+
 .container{
   justify-content: center;
   border: 5%;
