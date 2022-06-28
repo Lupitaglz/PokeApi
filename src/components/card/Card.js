@@ -1,7 +1,7 @@
 import React from "react";
 import { Pokecard } from "./Pokecard";
 import '../card/Card.css'
-
+ 
 export const Card =({results}) =>{
     return(
         <div className="container">
