@@ -8,7 +8,6 @@ const App=()=>{
   const estado =Usefetch(url)
   const{cargando,data}=estado
   cargando? console.log('cargando'):console.log(data.results)
-
   return (
       <div>
           <h1>Lista de Pokemons</h1>
@@ -28,7 +27,6 @@ const App=()=>{
 
               </div>
           }
-
       </div>
   )
 }
